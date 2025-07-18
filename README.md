@@ -28,7 +28,7 @@
 
 ## 🛠️ Tecnologías utilizadas
 
-- **Frontend:** React, Bootstrap, Axios
+- **Frontend:** React, Vue, Axios, sas
 - **Backend:** Node.js, Express, PostgreSQL
 - **Autenticación:** JWT + Bcrypt
 - **Extras:** PDFKit, ExcelJS, Sequelize ORM, dotenv
